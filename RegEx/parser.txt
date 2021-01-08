@@ -1,0 +1,32 @@
+João Fulano,123.456.789-00,21 de Maio de 1993,(21) 3079-9987,Rua do Ouvidor,50,20040-030,Rio de Janeiro
+Maria Fulana, 98765432100,11 de Abril de 1995,(11) 933339871,Rua Vergueiro,3185,04101-300,São Paulo
+denise teste, 987.654.321.00,28 de Dezembro de 1991,(31)45562712,SCS Qd. 8 Bl. B-50,11,70333-900,Rio Grande
+
+No <code>for</code>, o valor de <code>i</code> começa de zero e é incrementado a cada volta enquanto 
+<code>i < 10</code>, portando o bloco de código do for é executado 10 vezes.
+
+9.8 - Robson, 7.1 - Teresa, 4.5 - Armênio, 6.5 - Zulu, 7.7 - Stefania, 7.8 - João, 
+5.0 - Romeu, 7.2 - Pompilho, 3.1 - Reinaldo, 7.3 - Bernadete, 4.7 - Cinério ,
+10 - Bruce, 9.5 - Miranda, 7.9    - Bob, 10 - Zimbabue, 7.5 - Bety
+
+BALEIRO GARROTE SERROTE GOLEIRO ROTEIRO
+GARROTE, SERROTE e ROTEIRO
+
+super.mario@caelum.com.br extrai super.mario
+donkey.kong@alura.com.br extrai donkey.kong
+bowser1@alura.com.br extrai bowser1
+
+donkey.kong@kart.com.br
+bowser1@games.info 
+super-mario@nintendo.JP
+TEAM.donkey-kong@MARIO.kart1.nintendo.com
+
+toad@kart...com
+wario@kart@nintendo.com
+yoshi@nintendo
+daisy@nintendo.b
+..@email.com
+
+Nico Steppat|14/05/1977|Rua Buarque de Macedo|50|22222-222|Rio de Janeiro
+Romulo Henrique|14/06/1993|Rua do Lins|120|12345-322|Rio de Janeiro
+Leonardo Cordeiro|01/01/1995|Rua de Campo Grande|01|00001-234|Rio de Janeiro
