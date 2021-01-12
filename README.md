@@ -26,8 +26,6 @@ Um RegEx, ou Expressão Regular, é uma sequência de caracteres que forma um pa
 RegEx pode ser usado para verificar se uma string contém o padrão de pesquisa especificado.
 
  ```
-pip install regex 
-    or
 pip install re
 ```
 [Documentacao da biblioteca](https://docs.python.org/pt-br/3.8/howto/regex.html)
@@ -39,12 +37,18 @@ Beautiful Soup é uma biblioteca Python para extrair dados de arquivos HTML e XM
  ```
 pip install bs4 
 ```
-
 [Documentacao da biblioteca](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
+- Scrapy
+
+Scrapy é uma estrutura de rastreamento e scraping da web de alto nível, usada para rastrear sites e extrair dados estruturados de suas páginas. Ele pode ser usado para uma ampla gama de finalidades, desde mineração de dados até monitoramento e testes automatizados.
+
+```
+pip install scrapy
+```
+[Documentacao do Framework](https://docs.scrapy.org/en/latest/)
 
 - Selenium
-- Scrapy
 - Mechanize
 - Scrapemark
 
