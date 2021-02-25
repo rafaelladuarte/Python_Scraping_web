@@ -1,0 +1,6 @@
+.vscode
+.venv
+.env
+.venv
+geckodriver.log
+.pytest_cache
