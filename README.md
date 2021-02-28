@@ -39,6 +39,15 @@ pip install bs4
 ```
 [Documentacao da biblioteca](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
+- Selenium
+
+Selenium é uma biblioteca, de software livre, sob licença Apache 2.0, usado para automação de testes de software, criar bots, reduzir trabalho manuais e repetitivos e "raspar dados da internet"
+
+```
+pip install selenium
+```
+[Documentacao](https://selenium-python.readthedocs.io/)
+
 - Scrapy
 
 Scrapy é uma estrutura de rastreamento e scraping da web de alto nível, usada para rastrear sites e extrair dados estruturados de suas páginas. Ele pode ser usado para uma ampla gama de finalidades, desde mineração de dados até monitoramento e testes automatizados.
@@ -48,7 +57,6 @@ pip install scrapy
 ```
 [Documentacao do Framework](https://docs.scrapy.org/en/latest/)
 
-- Selenium
 - Mechanize
 - Scrapemark
 
