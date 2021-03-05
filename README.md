@@ -1,7 +1,7 @@
 # Web Scraping com Python
 
 <p align="center">
-<img src="https://github.com/elladarte/phttps://raw.githubusercontent.com/elladarte/Python_Scraping_web/master/do-web-scraping-using-python.jpg"/> </br>
+<img src="https://raw.githubusercontent.com/elladarte/Python_Scraping_web/master/do-web-scraping-using-python.jpg"/> </br>
 <img src="https://img.shields.io/static/v1?label=Status&message=Em_andamento&color=yellow&style=for-the-badge"/>
 </p>
 
