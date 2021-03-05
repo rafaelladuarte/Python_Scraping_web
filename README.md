@@ -1,7 +1,7 @@
 # Web Scraping com Python
 
 <p align="center">
-<img src="https://github.com/elladarte/python_scraping/blob/master/do-web-scraping-using-python.jpg"/> </br>
+<img src="https://github.com/elladarte/phttps://raw.githubusercontent.com/elladarte/Python_Scraping_web/master/do-web-scraping-using-python.jpg"/> </br>
 <img src="https://img.shields.io/static/v1?label=Status&message=Em_andamento&color=yellow&style=for-the-badge"/>
 </p>
 
@@ -18,7 +18,7 @@ urllib é um pacote que coleta vários módulos especificos para trabalhar com U
  ```
 pip install urllib
 ```
-[Documentacao da biblioteca](https://docs.python.org/pt-br/3.8/library/urllib.html)
+[Documentacao da Biblioteca](https://docs.python.org/pt-br/3.8/library/urllib.html)
 
 - RegEx
 
@@ -28,7 +28,7 @@ RegEx pode ser usado para verificar se uma string contém o padrão de pesquisa 
  ```
 pip install re
 ```
-[Documentacao da biblioteca](https://docs.python.org/pt-br/3.8/howto/regex.html)
+[Documentacao da Biblioteca](https://docs.python.org/pt-br/3.8/howto/regex.html)
 
 - Bs4 (BeatifulSoup4)
 
@@ -37,7 +37,7 @@ Beautiful Soup é uma biblioteca Python para extrair dados de arquivos HTML e XM
  ```
 pip install bs4 
 ```
-[Documentacao da biblioteca](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[Documentacao da Biblioteca](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 - Selenium
 
@@ -46,7 +46,7 @@ Selenium é uma biblioteca, de software livre, sob licença Apache 2.0, usado pa
 ```
 pip install selenium
 ```
-[Documentacao](https://selenium-python.readthedocs.io/)
+[Documentacao da Biblioteca](https://selenium-python.readthedocs.io/)
 
 - Scrapy
 
